@@ -10,4 +10,7 @@ pub fn main() !void {
 
     try all.day03.part1();
     try all.day03.part2();
+
+    try all.day04.part1();
+    try all.day04.part2();
 }
